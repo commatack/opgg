@@ -1,1 +1,1 @@
-worker: python Discord.py
+worker: python opgg.py
